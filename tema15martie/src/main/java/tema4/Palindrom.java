@@ -26,6 +26,7 @@ public class Palindrom {
 
             if (characters.charAt(i) != characters.charAt(characters.length() - 1 - i)) {
                 isAPalindrom = false;
+                break;
             }
         }
 
