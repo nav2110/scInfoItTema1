@@ -5,8 +5,7 @@ package tema2;
 
 import java.util.Scanner;
 /**
- *  Calculate the smallest number in the array with the algorithm Divide and Conquer
- *  Create recursive methods that split the array into two parts, compare the elements, and merge them
+ *  Calculate the smallest number in the array 
  */
 
 public class SmallestNumber {
