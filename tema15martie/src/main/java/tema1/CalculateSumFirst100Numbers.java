@@ -1,7 +1,7 @@
 package tema1;
 
 /**
- * Property of Alex Virastau
+ * Property of AV
  */
 public class CalculateSumFirst100Numbers {
     /**
